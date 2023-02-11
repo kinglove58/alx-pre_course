@@ -1,1 +1,1 @@
-ekijad is a child of Fod
+my first readme
